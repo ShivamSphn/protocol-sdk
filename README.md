@@ -12,7 +12,7 @@
    - [Setting Up the Provider Proxy Server](#setting-up-the-provider-proxy-server)
 5. [Usage](#usage)
    - [Initializing the SDK](#initializing-the-sdk)
-   - [Examples](#examples)
+   - [Examples](#example)
 6. [Contributing](#contributing)
 7. [License](#license)
 
@@ -139,7 +139,7 @@ const sdk = new SpheronSDK("testnet", "your-private-key");
 
 ### Examples
 
-Refer to the [Examples Directory](./examples) for sample code demonstrating how to use various modules of the SDK.
+Refer to the [Examples Directory](./example) for sample code demonstrating how to use various modules of the SDK.
 
 **Example: Creating a Deployment**
 
